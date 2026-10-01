@@ -14,7 +14,7 @@ Built during the BeCode AI & Data Science Bootcamp, in partnership with ING.
 [![License](https://img.shields.io/badge/License-Academic%20Project-lightgrey?style=flat)]()
 
 ### 🚀 [**Live Demo →** ing-campaign-comparator-app.onrender.com](https://ing-campaign-comparator-app.onrender.com/)
-*Hosted on Render's free tier — the backend may take ~30–60s to wake up on the first request after a period of inactivity.*
+*Hosted on Render's free tier, the backend may take ~30–60s to wake up on the first request after a period of inactivity.*
 
 [Overview](#-overview) • [Key Numbers](#-key-numbers) • [How It Works](#%EF%B8%8F-how-it-works) • [Features](#-features) • [Setup](#-setup--installation) • [Team](#-team)
 
